@@ -33,3 +33,5 @@ Languages and Tools:
 <br />
 <br />
 
+[website]: https://gavrilove.github.io/
+[linkedin]: https://www.linkedin.com/in/andrei-gavrilov-7780421b5/
