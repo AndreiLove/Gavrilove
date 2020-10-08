@@ -56,7 +56,7 @@
 [![Website](https://img.shields.io/static/v1?label=Cain&message=↩&color=<COLOR>)](http://www.oxid.it/cain.html )
 [![Website](https://img.shields.io/static/v1?label=cree.py&message=↩&color=<COLOR>)](http://ilektrojohn.github.com/creepy/)
 [![Website](https://img.shields.io/static/v1?label=inSSIDer&message=↩&color=<COLOR>)](http://www.metageek.net/products/inssider )
-[![Website](https://img.shields.io/static/v1?label=Kisme Newcore&message=↩&color=<COLOR>)](http://www.kismetwireless.net )
+[![Website](https://img.shields.io/static/v1?label=KismeNewcore&message=↩&color=<COLOR>)](http://www.kismetwireless.net )
 [![Website](https://img.shields.io/static/v1?label=RainbowCrack&message=↩&color=<COLOR>)](http://project-rainbowcrack.com )
 [![Website](https://img.shields.io/static/v1?label=dnsenum&message=↩&color=<COLOR>)](http://code.google.com/p/dnsenum )
 [![Website](https://img.shields.io/static/v1?label=dnsmap&message=↩&color=<COLOR>)](http://code.google.com/p/dnsmap )
@@ -70,7 +70,7 @@
 [![Website](https://img.shields.io/static/v1?label=URLcrazy&message=↩&color=<COLOR>)](http://www.morningstarsecurity.com/research/urlcrazy )
 [![Website](https://img.shields.io/static/v1?label=theHarvester&message=↩&color=<COLOR>)](http://www.edge-security.com/theHarvester.php )
 [![Website](https://img.shields.io/static/v1?label=TheMetasploit&message=↩&color=<COLOR>)](http://metasploit.com )
-[![Website](https://img.shields.io/static/v1?label=TheSocial-Engineer Toolkit&message=↩&color=<COLOR>)](http://www.secmaniac.com/download/ )
+[![Website](https://img.shields.io/static/v1?label=TheSocial-EngineerToolkit&message=↩&color=<COLOR>)](http://www.secmaniac.com/download/ )
 [![Website](https://img.shields.io/static/v1?label=Fast-Track&message=↩&color=<COLOR>)](http://www.secmaniac.com/download/)
 <br />
 <br />
