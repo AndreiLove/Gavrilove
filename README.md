@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/static/v1?label=<WEBSITE>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/)
 [![Blog](https://img.shields.io/static/v1?label=<BLOG>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
 
-### I'm a Ethical Hacker, Developer, and Dance Teacher!!
+### I'm a Ethical Hacker, Developer, and Offensive Engeneer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to dance!
+- ⚡ Fun fact: I was a professional dancer for 25 years!
 
 ### Connect with me:
 
