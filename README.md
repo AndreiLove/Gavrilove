@@ -38,7 +38,7 @@
 
 ### Pentestin Tools Ans Software I Use:
 
-[![Website](https://img.shields.io/static/v1?label=Maltego&message=none&color=<COLOR>)](http://www.paterva.com/web5 )
+[![Website](https://img.shields.io/static/v1?label=Maltego&message=↩&color=<COLOR>)](http://www.paterva.com/web5 )
 
 
 
