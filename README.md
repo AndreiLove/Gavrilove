@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrei - aka [GavriLove][website] 👋
 
-[![Website](https://img.shields.io/website?label=gavrilove&style=for-the-badge&url=https%3A%2F%2Fwebsite)](https://gavrilove.github.io/)
-[![Blog](https://img.shields.io/website?label=gavrilove&style=for-the-badge&url=https%3A%2F%2Fblog)](https://gavrilove.github.io/blog.github.io/)
+[![Website](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://gavrilove.github.io/)
+[![Blog](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
 
 ## I'm a Ethical Hacker, Developer, and Dance Teacher!!
 
