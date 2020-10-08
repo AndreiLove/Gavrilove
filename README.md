@@ -1,9 +1,9 @@
-Hi there, I'm Andrei - aka [GavriLove][website] 👋
+### Hi there, I'm Andrei - aka [GavriLove][website] 👋
 
 [![Website](https://img.shields.io/static/v1?label=<WEBSITE>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/)
 [![Blog](https://img.shields.io/static/v1?label=<BLOG>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
 
-I'm a Ethical Hacker, Developer, and Dance Teacher!!
+### I'm a Ethical Hacker, Developer, and Dance Teacher!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
@@ -11,7 +11,7 @@ I'm a Ethical Hacker, Developer, and Dance Teacher!!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance!
 
-Connect with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -21,7 +21,7 @@ Connect with me:
 
 <br />
 
-Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
