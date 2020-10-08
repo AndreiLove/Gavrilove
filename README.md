@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrei - aka [GavriLove][website] 👋
 
-[![Website](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://gavrilove.github.io/)
-[![Blog](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
+[![Website](https://img.shields.io/static/v1?label=<WEBSITE>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/)
+[![Blog](https://img.shields.io/static/v1?label=<BLOG>&message=<here>&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
 
 ## I'm a Ethical Hacker, Developer, and Dance Teacher!!
 
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/solomondin)
 
 ### Connect with me:
 
