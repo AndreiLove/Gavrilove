@@ -37,7 +37,7 @@
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <br />
 
-### Pentestin Tools And Software I Use:
+### Pentesting Tools And Software I Use:
 
 [![Website](https://img.shields.io/static/v1?label=Maltego&message=↩&color=<COLOR>)](http://www.paterva.com/web5 )
 [![Website](https://img.shields.io/static/v1?label=Nessus&message=↩&color=<COLOR>)](http://tenable.com/products/nessus )
