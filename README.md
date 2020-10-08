@@ -40,14 +40,38 @@
 ### Pentestin Tools And Software I Use:
 
 [![Website](https://img.shields.io/static/v1?label=Maltego&message=↩&color=<COLOR>)](http://www.paterva.com/web5 )
-[![Website](https://img.shields.io/static/v1?label=Nessus&message=↩&color=<COLOR>)](http://tenable.com/products/nessus  )
-
-
-
-
-
-
-
+[![Website](https://img.shields.io/static/v1?label=Nessus&message=↩&color=<COLOR>)](http://tenable.com/products/nessus )
+[![Website](https://img.shields.io/static/v1?label=IBM App Scan&message=↩&color=<COLOR>)](http://www-01.ibm.com/software/awdtools/appscan)
+[![Website](https://img.shields.io/static/v1?label=eEye Retina&message=↩&color=<COLOR>)](http://www.eeye.com/Products/Retina.aspx)
+[![Website](https://img.shields.io/static/v1?label=Nexpose&message=↩&color=<COLOR>)](http://www.rapid7.com  )
+[![Website](https://img.shields.io/static/v1?label=eEye OpenVAS&message=↩&color=<COLOR>)](http://www.openvas.org )
+[![Website](https://img.shields.io/static/v1?label=eEye HP WebInspect&message=↩&color=<COLOR>)](https://www.fortify.com/products/web_inspect.html )
+[![Website](https://img.shields.io/static/v1?label=eEye HP SWFScan&message=↩&color=<COLOR>)](https://h30406.www3.hp.com/campaigns/2009/wwcampaign/1-5TUVE/index.php?key=swf )
+[![Website](https://img.shields.io/static/v1?label=eEye Kali Linux&message=↩&color=<COLOR>)](https://www.backtrack-linux.org/)
+[![Website](https://img.shields.io/static/v1?label=eEye SamuraiWTF&message=↩&color=<COLOR>)](http://samurai.inguardians.com )
+[![Website](https://img.shields.io/static/v1?label=eEye SiteDigger&message=↩&color=<COLOR>)](http://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx )
+[![Website](https://img.shields.io/static/v1?label=eEye FOCA&message=↩&color=<COLOR>)](http://www.informatica64.com/DownloadFOCA )
+[![Website](https://img.shields.io/static/v1?label=eEye THC IPv6&message=↩&color=<COLOR>)](http://www.thc.org/thc-ipv6)
+[![Website](https://img.shields.io/static/v1?label=eEye THC Hydra&message=↩&color=<COLOR>)](http://thc.org/thc-hydra/ )
+[![Website](https://img.shields.io/static/v1?label=eEye Cain&message=↩&color=<COLOR>)](http://www.oxid.it/cain.html )
+[![Website](https://img.shields.io/static/v1?label=eEye cree.py&message=↩&color=<COLOR>)](http://ilektrojohn.github.com/creepy/)
+[![Website](https://img.shields.io/static/v1?label=eEye inSSIDer&message=↩&color=<COLOR>)](http://www.metageek.net/products/inssider )
+[![Website](https://img.shields.io/static/v1?label=eEye Kismet Newcore&message=↩&color=<COLOR>)](http://www.kismetwireless.net )
+[![Website](https://img.shields.io/static/v1?label=eEye Rainbow Crack&message=↩&color=<COLOR>)](http://project-rainbowcrack.com )
+[![Website](https://img.shields.io/static/v1?label=eEye dnsenum&message=↩&color=<COLOR>)](http://code.google.com/p/dnsenum )
+[![Website](https://img.shields.io/static/v1?label=eEye dnsmap&message=↩&color=<COLOR>)](http://code.google.com/p/dnsmap )
+[![Website](https://img.shields.io/static/v1?label=eEye dnsrecon&message=↩&color=<COLOR>)](http://www.darkoperator.com/tools-and-scripts/ )
+[![Website](https://img.shields.io/static/v1?label=eEye dnstracer&message=↩&color=<COLOR>)](http://www.mavetju.org/unix/dnstracer.php )
+[![Website](https://img.shields.io/static/v1?label=eEye dnswalk&message=↩&color=<COLOR>)](http://sourceforge.net/projects/dnswalk)
+[![Website](https://img.shields.io/static/v1?label=eEye Fierce&message=↩&color=<COLOR>)](http://ha.ckers.org/fierce )
+[![Website](https://img.shields.io/static/v1?label=eEye Fierce2&message=↩&color=<COLOR>)](http://trac.assembla.com/fierce/ )
+[![Website](https://img.shields.io/static/v1?label=eEye FindDomain&message=↩&color=<COLOR>)](http://code.google.com/p/finddomains )
+[![Website](https://img.shields.io/static/v1?label=eEye HostMap&message=↩&color=<COLOR>)](http://hostmap.lonerunners.net )
+[![Website](https://img.shields.io/static/v1?label=eEye URLcrazy&message=↩&color=<COLOR>)](http://www.morningstarsecurity.com/research/urlcrazy )
+[![Website](https://img.shields.io/static/v1?label=eEye theHarvester&message=↩&color=<COLOR>)](http://www.edge-security.com/theHarvester.php )
+[![Website](https://img.shields.io/static/v1?label=eEye The Metasploit&message=↩&color=<COLOR>)](http://metasploit.com )
+[![Website](https://img.shields.io/static/v1?label=eEye The Social-Engineer Toolkit&message=↩&color=<COLOR>)](http://www.secmaniac.com/download/ )
+[![Website](https://img.shields.io/static/v1?label=eEye Fast-Track&message=↩&color=<COLOR>)](http://www.secmaniac.com/download/)
 <br />
 <br />
 
