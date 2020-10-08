@@ -75,5 +75,14 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://gavrilove.github.io/blog.github.io/)
+
+
 [website]: https://gavrilove.github.io/
 [linkedin]: https://www.linkedin.com/in/andrei-gavrilov-7780421b5/
