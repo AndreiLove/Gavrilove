@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/static/v1?label=WEBSITE&message=here&color=<COLOR>)](https://gavrilove.github.io/)
 [![Blog](https://img.shields.io/static/v1?label=BLOG&message=here&color=<COLOR>)](https://gavrilove.github.io/blog.github.io/)
 
-### I'm a Ethical Hacker, Developer, and Offensive Engeneer!!
+### I'm a Ethical Hacker, Penetretion Tester, and Offensive Engeneer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
